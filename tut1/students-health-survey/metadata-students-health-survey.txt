@@ -1,0 +1,274 @@
+# Metadata for Students' Health Survey
+---
+Identifier: '0dedd7f4-648d-42de-b324-7c314de30cce'
+Name: 'students-health-survey'
+Title: 'Students'' Health Survey'
+Description:
+  - 'Students'' Health Survey (SHS) tracks the health behaviours among secondary school
+    students in Singapore once every 3 years.'
+  - '2017: No further updates to this dataset will be included.'
+Topics:
+  - 'Health'
+Keywords:
+  - 'Schools'
+  - 'Secondary Education'
+  - 'Students'
+Publisher:
+  Name: 'Health Promotion Board'
+  Admin 1:
+    Name: 'Health Promotion Board'
+    Department: 'Mailbox'
+    Email: 'HPB_mailbox@hpb.gov.sg'
+Sources:
+  - 'Health Promotion Board'
+License: 'https://data.gov.sg/open-data-licence'
+Frequency: 'Other'
+Coverage: '2006-01-01 to 2012-12-31'
+Last Updated: '2018-09-24T01:42:37.011580'
+Resources:
+  -
+    Identifier: '93a05d55-a41b-44f8-9052-94aa7d563d7f'
+    Title: 'Health Behaviours among Secondary School Students by Gender'
+    Url: 'https://storage.data.gov.sg/students-health-survey/resources/health-behaviours-among-secondary-school-students-by-gender-2016-07-25T07-18-17Z.csv'
+    Format: 'CSV'
+    Coverage: '2006-01-01 to 2012-12-31'
+    Last Updated: '2016-07-25T07:18:17.015449'
+    Schema:
+      -
+        Name: 'year'
+        Title: 'Year'
+        Type: 'datetime'
+        Sub Type: 'year'
+        Format: 'YYYY'
+        Description: 'Year of survey was conducted'
+      -
+        Name: 'gender'
+        Title: 'Gender'
+        Type: 'text'
+        Sub Type: 'general'
+      -
+        Name: 'physical_activity'
+        Title: 'Physical activity'
+        Type: 'numeric'
+        Sub Type: 'percentage'
+        Description:
+          - 'Proportion of students who engaged in vigorous or  moderate intensity
+            physical activity for at least 60 minutes per day on 5 or more days a
+            week'
+          - 'Percentages are expressed as a value over 100, i.e. "100" represents
+            100%'
+      -
+        Name: 'fruit_intake'
+        Title: 'Fruit intake'
+        Type: 'numeric'
+        Sub Type: 'percentage'
+        Description:
+          - 'Proportion of students who consumed at least 2 servings of fruits (including
+            maximum of 1 serving of fruit juice) every day'
+          - 'Percentages are expressed as a value over 100, i.e. "100" represents
+            100%'
+      -
+        Name: 'vegetable_intake'
+        Title: 'Vegetable intake'
+        Type: 'numeric'
+        Sub Type: 'percentage'
+        Description:
+          - 'Proportion of students who consumed at least 2 servings of vegetables
+            every day'
+          - 'Percentages are expressed as a value over 100, i.e. "100" represents
+            100%'
+      -
+        Name: 'fruit_and_vege_intake'
+        Title: 'Fruit and vege intake'
+        Type: 'numeric'
+        Sub Type: 'percentage'
+        Description:
+          - 'Proportion of students who consumed at least 2 servings of fruit (including
+            maximum of 1 serving of fruit juice) and at least 2 servings of vegetables
+            every day'
+          - 'Percentages are expressed as a value over 100, i.e. "100" represents
+            100%'
+      -
+        Name: 'sweetened_drinks_intake'
+        Title: 'Sweetened drinks intake'
+        Type: 'numeric'
+        Sub Type: 'percentage'
+        Description:
+          - 'Proportion of students who consumed sweetened drinks on average once
+            a day or less frequent'
+          - 'Percentages are expressed as a value over 100, i.e. "100" represents
+            100%'
+      -
+        Name: 'deep_fried_food_intake'
+        Title: 'Deep fried food intake'
+        Type: 'numeric'
+        Sub Type: 'percentage'
+        Description:
+          - 'Proportion of students who consumed deep fried food twice a week or less
+            frequent'
+          - 'Percentages are expressed as a value over 100, i.e. "100" represents
+            100%'
+      -
+        Name: 'salt_use'
+        Title: 'Salt use'
+        Type: 'numeric'
+        Sub Type: 'percentage'
+        Description:
+          - 'Proportion of students who do not add salt or sauces to cooked food'
+          - 'Percentages are expressed as a value over 100, i.e. "100" represents
+            100%'
+      -
+        Name: 'fat_intake'
+        Title: 'Fat intake'
+        Type: 'numeric'
+        Sub Type: 'percentage'
+        Description:
+          - 'Proportion of students who removed all the skin when eating poultry'
+          - 'Percentages are expressed as a value over 100, i.e. "100" represents
+            100%'
+          - '"na" : Data not available or not applicable'
+      -
+        Name: 'smoking'
+        Title: 'Smoking'
+        Type: 'numeric'
+        Sub Type: 'percentage'
+        Description:
+          - 'Proportion of students who smoked at least 1 day in the past 30 days'
+          - 'Percentages are expressed as a value over 100, i.e. "100" represents
+            100%'
+      -
+        Name: 'binge_drinking'
+        Title: 'Binge drinking'
+        Type: 'numeric'
+        Sub Type: 'percentage'
+        Description:
+          - 'Binge drinking (for boys): Drank 5 or more drinks in a row in the past
+            month'
+          - 'Binge drinking (for girls): Drank 4 or more drinks in a row in the past
+            month"'
+          - 'Percentages are expressed as a value over 100, i.e. "100" represents
+            100%'
+          - '"na" : Data not available or not applicable'
+  -
+    Identifier: '8797f146-aee6-4942-928d-b00af556b624'
+    Title: 'Health Behaviours among Secondary School Students by Educational Level'
+    Url: 'https://storage.data.gov.sg/students-health-survey/resources/health-behaviours-among-secondary-school-students-by-educational-level-2016-07-25T07-19-41Z.csv'
+    Format: 'CSV'
+    Coverage: '2006-01-01 to 2012-12-31'
+    Last Updated: '2016-07-25T07:19:41.467569'
+    Schema:
+      -
+        Name: 'year'
+        Title: 'Year'
+        Type: 'datetime'
+        Sub Type: 'year'
+        Format: 'YYYY'
+        Description: 'Year of survey was conducted'
+      -
+        Name: 'edu_level'
+        Title: 'Edu level'
+        Type: 'text'
+        Sub Type: 'general'
+      -
+        Name: 'physical_activity'
+        Title: 'Physical activity'
+        Type: 'numeric'
+        Sub Type: 'percentage'
+        Description:
+          - 'Proportion of students who engaged in vigorous or  moderate intensity
+            physical activity for at least 60 minutes per day on 5 or more days a
+            week'
+          - 'Percentages are expressed as a value over 100, i.e. "100" represents
+            100%'
+      -
+        Name: 'fruit_intake'
+        Title: 'Fruit intake'
+        Type: 'numeric'
+        Sub Type: 'percentage'
+        Description:
+          - 'Proportion of students who consumed at least 2 servings of fruits (including
+            maximum of 1 serving of fruit juice) every day'
+          - 'Percentages are expressed as a value over 100, i.e. "100" represents
+            100%'
+      -
+        Name: 'vegetable_intake'
+        Title: 'Vegetable intake'
+        Type: 'numeric'
+        Sub Type: 'percentage'
+        Description:
+          - 'Proportion of students who consumed at least 2 servings of vegetables
+            every day'
+          - 'Percentages are expressed as a value over 100, i.e. "100" represents
+            100%'
+      -
+        Name: 'fruit_and_vege_intake'
+        Title: 'Fruit and vege intake'
+        Type: 'numeric'
+        Sub Type: 'percentage'
+        Description:
+          - 'Proportion of students who consumed at least 2 servings of fruit (including
+            maximum of 1 serving of fruit juice) and at least 2 servings of vegetables
+            every day'
+          - 'Percentages are expressed as a value over 100, i.e. "100" represents
+            100%'
+      -
+        Name: 'sweetened_drinks_intake'
+        Title: 'Sweetened drinks intake'
+        Type: 'numeric'
+        Sub Type: 'percentage'
+        Description:
+          - 'Proportion of students who consumed sweetened drinks on average once
+            a day or less frequent'
+          - 'Percentages are expressed as a value over 100, i.e. "100" represents
+            100%'
+      -
+        Name: 'deep_fried_food_intake'
+        Title: 'Deep fried food intake'
+        Type: 'numeric'
+        Sub Type: 'percentage'
+        Description:
+          - 'Proportion of students who consumed deep fried food twice a week or less
+            frequent'
+          - 'Percentages are expressed as a value over 100, i.e. "100" represents
+            100%'
+      -
+        Name: 'salt_use'
+        Title: 'Salt use'
+        Type: 'numeric'
+        Sub Type: 'percentage'
+        Description:
+          - 'Proportion of students who do not add salt or sauces to cooked food'
+          - 'Percentages are expressed as a value over 100, i.e. "100" represents
+            100%'
+      -
+        Name: 'fat_intake'
+        Title: 'Fat intake'
+        Type: 'numeric'
+        Sub Type: 'percentage'
+        Description:
+          - 'Proportion of students who removed all the skin when eating poultry'
+          - 'Percentages are expressed as a value over 100, i.e. "100" represents
+            100%'
+          - '"na" : Data not available or not applicable'
+      -
+        Name: 'smoking'
+        Title: 'Smoking'
+        Type: 'numeric'
+        Sub Type: 'percentage'
+        Description:
+          - 'Proportion of students who smoked at least 1 day in the past 30 days'
+          - 'Percentages are expressed as a value over 100, i.e. "100" represents
+            100%'
+      -
+        Name: 'binge_drinking'
+        Title: 'Binge drinking'
+        Type: 'numeric'
+        Sub Type: 'percentage'
+        Description:
+          - 'Binge drinking (for boys): Drank 5 or more drinks in a row in the past
+            month'
+          - 'Binge drinking (for girls): Drank 4 or more drinks in a row in the past
+            month'
+          - 'Percentages are expressed as a value over 100, i.e. "100" represents
+            100%'
+          - '"na" : Data not available or not applicable'

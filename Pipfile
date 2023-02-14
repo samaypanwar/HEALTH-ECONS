@@ -10,6 +10,7 @@ numpy = "*"
 seaborn = "*"
 plotly = "*"
 statsmodels = "*"
+polars = "*"
 
 [dev-packages]
 

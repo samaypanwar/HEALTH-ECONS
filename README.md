@@ -36,8 +36,8 @@ Questions to answer:
 
 ---
 3. Covid
-   1. Number of covid cases in _year_ for State/county ? * year interaction
-   2. Number of covid deaths in _year_ * year interaction
+   1. Number of covid cases in _year_ for State/county
+   2. Number of covid deaths in _year
    3. Citation: Centers for Disease Control and Prevention, COVID-19 Response. Weekly United States COVID-19 Cases and Deaths by State (version date: [Month] [Date], [Year]).
    
    [link to dataset](https://data.cdc.gov/Case-Surveillance/Weekly-United-States-COVID-19-Cases-and-Deaths-by-/pwn4-m3yp)

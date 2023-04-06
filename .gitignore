@@ -1,5 +1,6 @@
 .idea/
 .DS_Store
-group_project/data/*
 .DS_Store
+group_project/data/Individual_Market*
+group_project/data/PY*
 .idea/*

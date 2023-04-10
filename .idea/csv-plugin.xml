@@ -10,6 +10,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="/group_project/data/2018.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="/group_project/data/2019.csv">
           <value>
             <Attribute>
@@ -17,7 +24,21 @@
             </Attribute>
           </value>
         </entry>
-        <entry key="/group_project/data/Book1.csv">
+        <entry key="/group_project/data/2020.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/group_project/data/2021.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/group_project/data/2022.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
@@ -25,6 +46,13 @@
           </value>
         </entry>
         <entry key="/group_project/data/Weekly_United_States_COVID-19_Cases_and_Deaths_by_State.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/group_project/data/main_data_file.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />

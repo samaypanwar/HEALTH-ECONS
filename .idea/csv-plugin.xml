@@ -10,6 +10,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="/group_project/data/2018.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="/group_project/data/2019.csv">
           <value>
             <Attribute>
@@ -17,7 +24,21 @@
             </Attribute>
           </value>
         </entry>
-        <entry key="/group_project/data/Book1.csv">
+        <entry key="/group_project/data/2020.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/group_project/data/2021.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/group_project/data/2022.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
@@ -25,6 +46,20 @@
           </value>
         </entry>
         <entry key="/group_project/data/Weekly_United_States_COVID-19_Cases_and_Deaths_by_State.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/group_project/data/cleaned_political_data.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/group_project/data/political_data.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
@@ -39,6 +74,20 @@
           </value>
         </entry>
         <entry key="/tut1/API_NY/API_NY.GDP.PCAP.CD_DS2_en_csv_v2_4770417.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/tut1/API_NY/Metadata_Country_API_NY.GDP.PCAP.CD_DS2_en_csv_v2_4770417.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/tut1/life-expectancy.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />

@@ -8,8 +8,8 @@ __pycache__/
 .idea/
 .DS_Store
 .DS_Store
-group_project/data/Individual_Market*
-group_project/data/PY*
+group_project/data/raw/
+group_project_submission/
 .idea/*
 # C extensions
 *.so
